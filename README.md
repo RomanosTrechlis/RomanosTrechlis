@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanosTrechlis&theme=blood&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak Stats"/>
 </div>
+
 ---
+
 ### Hi there 👋
 
 My name is [Romanos Trechlis](https://romanostrechlis.github.io/), I'm a Software Engineer from Athens, Greece.
@@ -14,7 +16,9 @@ Having an interest in history and geopolitics I studied Diplomacy and Geopolitic
 + I'm always eager to learn and explore new things
 + Technology, pen & paper RPGs, and sword fighting keep me busy in my spare time.
 + Reach me @ my [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:r.trechlis@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romanostrechlis/) account!
+
 ---
+
 ### Skills:
 
 <div>
@@ -28,7 +32,9 @@ Having an interest in history and geopolitics I studied Diplomacy and Geopolitic
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
+
 ---
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RomanosTrechlis&column=-1" alt="GitHub Trophies"/>
 </div>
