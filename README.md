@@ -1,4 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RomanosTrechlis&theme=blood&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanosTrechlis&theme=blood&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak Stats"/>
+</div>
 ---
 ### Hi there 👋
 
