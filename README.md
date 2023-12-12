@@ -99,7 +99,7 @@ Having an interest in history and geopolitics I studied Diplomacy and Geopolitic
 ### Other
 
 <div>
-  <a href="https://www.credly.com/badges/613fabd8-5a5e-4470-b7ba-79cee7dad72a/public_url"><img src="https://images.credly.com/size/340x340/images/f786ecd2-dce6-49d1-b7c6-6dcd832f8b14/image.png" title="Linux" **alt="Linux" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.credly.com/badges/613fabd8-5a5e-4470-b7ba-79cee7dad72a/public_url"><img src="https://images.credly.com/size/340x340/images/f786ecd2-dce6-49d1-b7c6-6dcd832f8b14/image.png" title="Linux" **alt="Linux" width="100" height="120"/></a>&nbsp;
 </div>
 
 <!-- 
