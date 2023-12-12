@@ -60,7 +60,7 @@
  </div> 
  -->
 
-### :man_technologist: About Me:
+### About Me:
 
 My name is [Romanos Trechlis](https://romanostrechlis.github.io/), I'm a Software Engineer from Athens, Greece.
 
@@ -75,7 +75,7 @@ Having an interest in history and geopolitics I studied Diplomacy and Geopolitic
 
 ---
 
-### :hammer_and_wrench: Programming Languages & Tools:
+### Programming Languages & Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -92,6 +92,14 @@ Having an interest in history and geopolitics I studied Diplomacy and Geopolitic
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### Other
+
+<div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="613fabd8-5a5e-4470-b7ba-79cee7dad72a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <!-- 
