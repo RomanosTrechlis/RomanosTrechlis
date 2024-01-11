@@ -68,7 +68,7 @@ I studied Electrical & Computer Engineering at University of Patras.
 
 Having an interest in history and geopolitics I studied Diplomacy and Geopolitics at the Greek branch of Centre d’Etudes Diplomatiques et Strategiques.
 
-+ :telescope: I’m currently working as a Full Stack Developer @[exus-ltd](https://github.com/exus-ltd)
++ :telescope: I’m currently working as a Lead Engineer @ [Netcompany](https://netcompany.com/)
 + :seedling: I'm always eager to learn and explore new things
 + :zap: Technology, pen & paper RPGs, and sword fighting keep me busy in my spare time.
 + :mailbox: Reach me @ my [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:r.trechlis@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romanostrechlis/) account!
